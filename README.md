@@ -1,4 +1,4 @@
-# nmap-payload-generator
+# Nmap-Payload-Generator
 
 ## Description
 
